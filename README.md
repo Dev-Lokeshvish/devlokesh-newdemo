@@ -1,2 +1,2 @@
 # devlokesh-newdemo
-this is a demo for Git &amp; Gitup class
+this is a demo for Git &amp; Gitup class.
